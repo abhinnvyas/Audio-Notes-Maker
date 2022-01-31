@@ -1,0 +1,5 @@
+SpeechRecognition,
+pydub,
+ffmpeg,
+ffprobe,
+fpdf
